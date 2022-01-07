@@ -1,2 +1,2 @@
-# thesis_data
-A version control (and online backup) of my thesis
+# water_level_correlation
+Version control of water level and rating curves
